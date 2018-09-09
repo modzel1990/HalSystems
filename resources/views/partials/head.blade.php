@@ -13,9 +13,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.transitions.css">
- 
+    <link rel="icon" href="{{Request::root()}}/images/llogo (2).png">
+
     <link href="{{Request::root()}}/Resources/LESS" rel="stylesheet">
-    <title>Hal Systems</title>
+    <title>Hal Systems Ltd</title>
 
 
     <!-- Fonts -->
